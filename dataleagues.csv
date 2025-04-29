@@ -1,0 +1,582 @@
+year,coverage.fixtures.events,coverage.fixtures.statistics_fixtures,league.name,league.id,country.name,Coverage
+2015,True,True,Ligue 1,61,France,2
+2016,True,True,Ligue 1,61,France,2
+2017,True,True,Ligue 1,61,France,2
+2018,True,True,Ligue 1,61,France,2
+2019,True,True,Ligue 1,61,France,2
+2020,True,True,Ligue 1,61,France,2
+2021,True,True,Ligue 1,61,France,2
+2022,True,True,Ligue 1,61,France,2
+2023,True,True,Ligue 1,61,France,2
+2024,True,True,Ligue 1,61,France,2
+2015,True,True,Jupiler Pro League,144,Belgium,2
+2016,True,True,Jupiler Pro League,144,Belgium,2
+2017,True,True,Jupiler Pro League,144,Belgium,2
+2018,True,True,Jupiler Pro League,144,Belgium,2
+2019,True,True,Jupiler Pro League,144,Belgium,2
+2020,True,True,Jupiler Pro League,144,Belgium,2
+2021,True,True,Jupiler Pro League,144,Belgium,2
+2022,True,True,Jupiler Pro League,144,Belgium,2
+2023,True,True,Jupiler Pro League,144,Belgium,2
+2024,True,True,Jupiler Pro League,144,Belgium,2
+2015,True,True,Serie A,71,Brazil,2
+2016,True,True,Serie A,71,Brazil,2
+2017,True,True,Serie A,71,Brazil,2
+2018,True,True,Serie A,71,Brazil,2
+2019,True,True,Serie A,71,Brazil,2
+2020,True,True,Serie A,71,Brazil,2
+2021,True,True,Serie A,71,Brazil,2
+2022,True,True,Serie A,71,Brazil,2
+2023,True,True,Serie A,71,Brazil,2
+2024,True,True,Serie A,71,Brazil,2
+2014,True,True,Premier League,39,England,2
+2015,True,True,Premier League,39,England,2
+2016,True,True,Premier League,39,England,2
+2017,True,True,Premier League,39,England,2
+2018,True,True,Premier League,39,England,2
+2019,True,True,Premier League,39,England,2
+2020,True,True,Premier League,39,England,2
+2021,True,True,Premier League,39,England,2
+2022,True,True,Premier League,39,England,2
+2023,True,True,Premier League,39,England,2
+2024,True,True,Premier League,39,England,2
+2015,True,True,Bundesliga,78,Germany,2
+2016,True,True,Bundesliga,78,Germany,2
+2017,True,True,Bundesliga,78,Germany,2
+2018,True,True,Bundesliga,78,Germany,2
+2019,True,True,Bundesliga,78,Germany,2
+2020,True,True,Bundesliga,78,Germany,2
+2021,True,True,Bundesliga,78,Germany,2
+2022,True,True,Bundesliga,78,Germany,2
+2023,True,True,Bundesliga,78,Germany,2
+2024,True,True,Bundesliga,78,Germany,2
+2015,True,True,Serie A,135,Italy,2
+2016,True,True,Serie A,135,Italy,2
+2017,True,True,Serie A,135,Italy,2
+2018,True,True,Serie A,135,Italy,2
+2019,True,True,Serie A,135,Italy,2
+2020,True,True,Serie A,135,Italy,2
+2021,True,True,Serie A,135,Italy,2
+2022,True,True,Serie A,135,Italy,2
+2023,True,True,Serie A,135,Italy,2
+2024,True,True,Serie A,135,Italy,2
+2015,True,True,Eredivisie,88,Netherlands,2
+2016,True,True,Eredivisie,88,Netherlands,2
+2017,True,True,Eredivisie,88,Netherlands,2
+2018,True,True,Eredivisie,88,Netherlands,2
+2019,True,True,Eredivisie,88,Netherlands,2
+2020,True,True,Eredivisie,88,Netherlands,2
+2021,True,True,Eredivisie,88,Netherlands,2
+2022,True,True,Eredivisie,88,Netherlands,2
+2023,True,True,Eredivisie,88,Netherlands,2
+2024,True,True,Eredivisie,88,Netherlands,2
+2015,True,True,Primeira Liga,94,Portugal,2
+2016,True,True,Primeira Liga,94,Portugal,2
+2017,True,True,Primeira Liga,94,Portugal,2
+2018,True,True,Primeira Liga,94,Portugal,2
+2019,True,True,Primeira Liga,94,Portugal,2
+2020,True,True,Primeira Liga,94,Portugal,2
+2021,True,True,Primeira Liga,94,Portugal,2
+2022,True,True,Primeira Liga,94,Portugal,2
+2023,True,True,Primeira Liga,94,Portugal,2
+2024,True,True,Primeira Liga,94,Portugal,2
+2014,True,True,La Liga,140,Spain,2
+2015,True,True,La Liga,140,Spain,2
+2016,True,True,La Liga,140,Spain,2
+2017,True,True,La Liga,140,Spain,2
+2018,True,True,La Liga,140,Spain,2
+2019,True,True,La Liga,140,Spain,2
+2020,True,True,La Liga,140,Spain,2
+2021,True,True,La Liga,140,Spain,2
+2022,True,True,La Liga,140,Spain,2
+2023,True,True,La Liga,140,Spain,2
+2024,True,True,La Liga,140,Spain,2
+2015,True,True,Premiership,179,Scotland,2
+2016,True,True,Premiership,179,Scotland,2
+2017,True,True,Premiership,179,Scotland,2
+2018,True,True,Premiership,179,Scotland,2
+2019,True,True,Premiership,179,Scotland,2
+2020,True,True,Premiership,179,Scotland,2
+2021,True,True,Premiership,179,Scotland,2
+2022,True,True,Premiership,179,Scotland,2
+2023,True,True,Premiership,179,Scotland,2
+2024,True,True,Premiership,179,Scotland,2
+2014,True,True,Ligue 2,62,France,2
+2015,True,True,Ligue 2,62,France,2
+2016,True,True,Ligue 2,62,France,2
+2017,True,True,Ligue 2,62,France,2
+2018,True,True,Ligue 2,62,France,2
+2019,True,True,Ligue 2,62,France,2
+2020,True,True,Ligue 2,62,France,2
+2021,True,True,Ligue 2,62,France,2
+2022,True,True,Ligue 2,62,France,2
+2023,True,True,Ligue 2,62,France,2
+2024,True,True,Ligue 2,62,France,2
+2016,True,True,Premier League,333,Ukraine,2
+2017,True,True,Premier League,333,Ukraine,2
+2018,True,True,Premier League,333,Ukraine,2
+2019,True,True,Premier League,333,Ukraine,2
+2020,True,True,Premier League,333,Ukraine,2
+2021,True,True,Premier League,333,Ukraine,2
+2022,True,True,Premier League,333,Ukraine,2
+2023,True,True,Premier League,333,Ukraine,2
+2024,True,True,Premier League,333,Ukraine,2
+2018,True,True,Pro League,301,United-Arab-Emirates,2
+2021,True,True,Pro League,301,United-Arab-Emirates,2
+2022,True,True,Pro League,301,United-Arab-Emirates,2
+2023,True,True,Pro League,301,United-Arab-Emirates,2
+2024,True,True,Pro League,301,United-Arab-Emirates,2
+2015,True,True,Süper Lig,203,Turkey,2
+2016,True,True,Süper Lig,203,Turkey,2
+2017,True,True,Süper Lig,203,Turkey,2
+2018,True,True,Süper Lig,203,Turkey,2
+2019,True,True,Süper Lig,203,Turkey,2
+2020,True,True,Süper Lig,203,Turkey,2
+2021,True,True,Süper Lig,203,Turkey,2
+2022,True,True,Süper Lig,203,Turkey,2
+2023,True,True,Süper Lig,203,Turkey,2
+2024,True,True,Süper Lig,203,Turkey,2
+2016,True,True,1. Lig,204,Turkey,2
+2017,True,True,1. Lig,204,Turkey,2
+2018,True,True,1. Lig,204,Turkey,2
+2019,True,True,1. Lig,204,Turkey,2
+2020,True,True,1. Lig,204,Turkey,2
+2021,True,True,1. Lig,204,Turkey,2
+2022,True,True,1. Lig,204,Turkey,2
+2023,True,True,1. Lig,204,Turkey,2
+2024,True,True,1. Lig,204,Turkey,2
+2021,True,True,Premier League,233,Egypt,2
+2022,True,True,Premier League,233,Egypt,2
+2023,True,True,Premier League,233,Egypt,2
+2024,True,True,Premier League,233,Egypt,2
+2016,True,True,Super League 1,197,Greece,2
+2017,True,True,Super League 1,197,Greece,2
+2018,True,True,Super League 1,197,Greece,2
+2019,True,True,Super League 1,197,Greece,2
+2020,True,True,Super League 1,197,Greece,2
+2021,True,True,Super League 1,197,Greece,2
+2022,True,True,Super League 1,197,Greece,2
+2023,True,True,Super League 1,197,Greece,2
+2024,True,True,Super League 1,197,Greece,2
+2014,True,True,2. Bundesliga,79,Germany,2
+2015,True,True,2. Bundesliga,79,Germany,2
+2016,True,True,2. Bundesliga,79,Germany,2
+2017,True,True,2. Bundesliga,79,Germany,2
+2018,True,True,2. Bundesliga,79,Germany,2
+2019,True,True,2. Bundesliga,79,Germany,2
+2020,True,True,2. Bundesliga,79,Germany,2
+2021,True,True,2. Bundesliga,79,Germany,2
+2022,True,True,2. Bundesliga,79,Germany,2
+2023,True,True,2. Bundesliga,79,Germany,2
+2024,True,True,2. Bundesliga,79,Germany,2
+2017,True,True,3. Liga,80,Germany,2
+2018,True,True,3. Liga,80,Germany,2
+2019,True,True,3. Liga,80,Germany,2
+2020,True,True,3. Liga,80,Germany,2
+2021,True,True,3. Liga,80,Germany,2
+2022,True,True,3. Liga,80,Germany,2
+2023,True,True,3. Liga,80,Germany,2
+2024,True,True,3. Liga,80,Germany,2
+2014,True,True,A-League,188,Australia,2
+2015,True,True,A-League,188,Australia,2
+2016,True,True,A-League,188,Australia,2
+2017,True,True,A-League,188,Australia,2
+2018,True,True,A-League,188,Australia,2
+2019,True,True,A-League,188,Australia,2
+2020,True,True,A-League,188,Australia,2
+2021,True,True,A-League,188,Australia,2
+2022,True,True,A-League,188,Australia,2
+2023,True,True,A-League,188,Australia,2
+2024,True,True,A-League,188,Australia,2
+2015,True,True,2. Liga,219,Austria,2
+2016,True,True,2. Liga,219,Austria,2
+2017,True,True,2. Liga,219,Austria,2
+2018,True,True,2. Liga,219,Austria,2
+2019,True,True,2. Liga,219,Austria,2
+2020,True,True,2. Liga,219,Austria,2
+2021,True,True,2. Liga,219,Austria,2
+2022,True,True,2. Liga,219,Austria,2
+2023,True,True,2. Liga,219,Austria,2
+2024,True,True,2. Liga,219,Austria,2
+2015,True,True,Bundesliga,218,Austria,2
+2016,True,True,Bundesliga,218,Austria,2
+2017,True,True,Bundesliga,218,Austria,2
+2018,True,True,Bundesliga,218,Austria,2
+2019,True,True,Bundesliga,218,Austria,2
+2020,True,True,Bundesliga,218,Austria,2
+2021,True,True,Bundesliga,218,Austria,2
+2022,True,True,Bundesliga,218,Austria,2
+2023,True,True,Bundesliga,218,Austria,2
+2024,True,True,Bundesliga,218,Austria,2
+2015,True,True,Superliga,119,Denmark,2
+2016,True,True,Superliga,119,Denmark,2
+2017,True,True,Superliga,119,Denmark,2
+2018,True,True,Superliga,119,Denmark,2
+2019,True,True,Superliga,119,Denmark,2
+2020,True,True,Superliga,119,Denmark,2
+2021,True,True,Superliga,119,Denmark,2
+2022,True,True,Superliga,119,Denmark,2
+2023,True,True,Superliga,119,Denmark,2
+2024,True,True,Superliga,119,Denmark,2
+2019,True,True,NB I,271,Hungary,2
+2020,True,True,NB I,271,Hungary,2
+2021,True,True,NB I,271,Hungary,2
+2022,True,True,NB I,271,Hungary,2
+2023,True,True,NB I,271,Hungary,2
+2024,True,True,NB I,271,Hungary,2
+2023,True,True,Stars League,305,Qatar,2
+2024,True,True,Stars League,305,Qatar,2
+2014,True,True,Championship,40,England,2
+2015,True,True,Championship,40,England,2
+2016,True,True,Championship,40,England,2
+2017,True,True,Championship,40,England,2
+2018,True,True,Championship,40,England,2
+2019,True,True,Championship,40,England,2
+2020,True,True,Championship,40,England,2
+2021,True,True,Championship,40,England,2
+2022,True,True,Championship,40,England,2
+2023,True,True,Championship,40,England,2
+2024,True,True,Championship,40,England,2
+2015,True,True,League One,41,England,2
+2016,True,True,League One,41,England,2
+2017,True,True,League One,41,England,2
+2018,True,True,League One,41,England,2
+2019,True,True,League One,41,England,2
+2020,True,True,League One,41,England,2
+2021,True,True,League One,41,England,2
+2022,True,True,League One,41,England,2
+2023,True,True,League One,41,England,2
+2024,True,True,League One,41,England,2
+2017,True,True,League Two,42,England,2
+2018,True,True,League Two,42,England,2
+2019,True,True,League Two,42,England,2
+2020,True,True,League Two,42,England,2
+2021,True,True,League Two,42,England,2
+2022,True,True,League Two,42,England,2
+2023,True,True,League Two,42,England,2
+2024,True,True,League Two,42,England,2
+2017,True,True,Serie B,72,Brazil,2
+2018,True,True,Serie B,72,Brazil,2
+2019,True,True,Serie B,72,Brazil,2
+2020,True,True,Serie B,72,Brazil,2
+2021,True,True,Serie B,72,Brazil,2
+2022,True,True,Serie B,72,Brazil,2
+2023,True,True,Serie B,72,Brazil,2
+2024,True,True,Serie B,72,Brazil,2
+2024,True,True,Serie C,75,Brazil,2
+2015,True,True,Major League Soccer,253,USA,2
+2016,True,True,Major League Soccer,253,USA,2
+2017,True,True,Major League Soccer,253,USA,2
+2018,True,True,Major League Soccer,253,USA,2
+2019,True,True,Major League Soccer,253,USA,2
+2020,True,True,Major League Soccer,253,USA,2
+2021,True,True,Major League Soccer,253,USA,2
+2022,True,True,Major League Soccer,253,USA,2
+2023,True,True,Major League Soccer,253,USA,2
+2024,True,True,Major League Soccer,253,USA,2
+2025,True,True,Major League Soccer,253,USA,2
+2021,True,True,Primera División - Apertura,268,Uruguay,2
+2022,True,True,Primera División - Apertura,268,Uruguay,2
+2023,True,True,Primera División - Apertura,268,Uruguay,2
+2024,True,True,Primera División - Apertura,268,Uruguay,2
+2025,True,True,Primera División - Apertura,268,Uruguay,2
+2020,True,True,Primera División - Clausura,270,Uruguay,2
+2021,True,True,Primera División - Clausura,270,Uruguay,2
+2022,True,True,Primera División - Clausura,270,Uruguay,2
+2023,True,True,Primera División - Clausura,270,Uruguay,2
+2023,True,True,Thai League 1,296,Thailand,2
+2024,True,True,Thai League 1,296,Thailand,2
+2015,True,True,Veikkausliiga,244,Finland,2
+2017,True,True,Veikkausliiga,244,Finland,2
+2018,True,True,Veikkausliiga,244,Finland,2
+2019,True,True,Veikkausliiga,244,Finland,2
+2021,True,True,Veikkausliiga,244,Finland,2
+2022,True,True,Veikkausliiga,244,Finland,2
+2023,True,True,Veikkausliiga,244,Finland,2
+2018,True,True,Liga Pro,242,Ecuador,2
+2019,True,True,Liga Pro,242,Ecuador,2
+2020,True,True,Liga Pro,242,Ecuador,2
+2021,True,True,Liga Pro,242,Ecuador,2
+2022,True,True,Liga Pro,242,Ecuador,2
+2023,True,True,Liga Pro,242,Ecuador,2
+2024,True,True,Liga Pro,242,Ecuador,2
+2025,True,True,Liga Pro,242,Ecuador,2
+2020,True,True,Premier League,116,Belarus,2
+2022,True,True,Premier League,116,Belarus,2
+2023,True,True,Premier League,116,Belarus,2
+2024,True,True,Premier League,116,Belarus,2
+2025,True,True,Premier League,116,Belarus,2
+2015,True,True,J1 League,98,Japan,2
+2016,True,True,J1 League,98,Japan,2
+2017,True,True,J1 League,98,Japan,2
+2018,True,True,J1 League,98,Japan,2
+2019,True,True,J1 League,98,Japan,2
+2020,True,True,J1 League,98,Japan,2
+2021,True,True,J1 League,98,Japan,2
+2022,True,True,J1 League,98,Japan,2
+2023,True,True,J1 League,98,Japan,2
+2024,True,True,J1 League,98,Japan,2
+2025,True,True,J1 League,98,Japan,2
+2022,True,True,Premier League,389,Kazakhstan,2
+2023,True,True,Premier League,389,Kazakhstan,2
+2023,True,True,Feminine Division 1,64,France,2
+2024,True,True,Feminine Division 1,64,France,2
+2015,True,True,Liga Profesional Argentina,128,Argentina,2
+2016,True,True,Liga Profesional Argentina,128,Argentina,2
+2017,True,True,Liga Profesional Argentina,128,Argentina,2
+2018,True,True,Liga Profesional Argentina,128,Argentina,2
+2019,True,True,Liga Profesional Argentina,128,Argentina,2
+2020,True,True,Liga Profesional Argentina,128,Argentina,2
+2021,True,True,Liga Profesional Argentina,128,Argentina,2
+2022,True,True,Liga Profesional Argentina,128,Argentina,2
+2023,True,True,Liga Profesional Argentina,128,Argentina,2
+2024,True,True,Liga Profesional Argentina,128,Argentina,2
+2025,True,True,Liga Profesional Argentina,128,Argentina,2
+2020,True,True,USL Championship,255,USA,2
+2021,True,True,Ligat Ha'al,383,Israel,2
+2022,True,True,Ligat Ha'al,383,Israel,2
+2023,True,True,Ligat Ha'al,383,Israel,2
+2024,True,True,Ligat Ha'al,383,Israel,2
+2016,True,True,Segunda División,141,Spain,2
+2017,True,True,Segunda División,141,Spain,2
+2018,True,True,Segunda División,141,Spain,2
+2019,True,True,Segunda División,141,Spain,2
+2020,True,True,Segunda División,141,Spain,2
+2021,True,True,Segunda División,141,Spain,2
+2022,True,True,Segunda División,141,Spain,2
+2023,True,True,Segunda División,141,Spain,2
+2024,True,True,Segunda División,141,Spain,2
+2016,True,True,Serie B,136,Italy,2
+2017,True,True,Serie B,136,Italy,2
+2018,True,True,Serie B,136,Italy,2
+2019,True,True,Serie B,136,Italy,2
+2020,True,True,Serie B,136,Italy,2
+2021,True,True,Serie B,136,Italy,2
+2022,True,True,Serie B,136,Italy,2
+2023,True,True,Serie B,136,Italy,2
+2024,True,True,Serie B,136,Italy,2
+2016,True,True,Eliteserien,103,Norway,2
+2017,True,True,Eliteserien,103,Norway,2
+2018,True,True,Eliteserien,103,Norway,2
+2019,True,True,Eliteserien,103,Norway,2
+2020,True,True,Eliteserien,103,Norway,2
+2021,True,True,Eliteserien,103,Norway,2
+2022,True,True,Eliteserien,103,Norway,2
+2023,True,True,Eliteserien,103,Norway,2
+2024,True,True,Eliteserien,103,Norway,2
+2016,True,True,Eerste Divisie,89,Netherlands,2
+2020,True,True,Eerste Divisie,89,Netherlands,2
+2021,True,True,Eerste Divisie,89,Netherlands,2
+2022,True,True,Eerste Divisie,89,Netherlands,2
+2023,True,True,Eerste Divisie,89,Netherlands,2
+2024,True,True,Eerste Divisie,89,Netherlands,2
+2019,True,True,Segunda Liga,95,Portugal,2
+2020,True,True,Segunda Liga,95,Portugal,2
+2021,True,True,Segunda Liga,95,Portugal,2
+2022,True,True,Segunda Liga,95,Portugal,2
+2023,True,True,Segunda Liga,95,Portugal,2
+2024,True,True,Segunda Liga,95,Portugal,2
+2016,True,True,Allsvenskan,113,Sweden,2
+2017,True,True,Allsvenskan,113,Sweden,2
+2018,True,True,Allsvenskan,113,Sweden,2
+2019,True,True,Allsvenskan,113,Sweden,2
+2020,True,True,Allsvenskan,113,Sweden,2
+2021,True,True,Allsvenskan,113,Sweden,2
+2022,True,True,Allsvenskan,113,Sweden,2
+2023,True,True,Allsvenskan,113,Sweden,2
+2024,True,True,Allsvenskan,113,Sweden,2
+2016,True,True,Super League,169,China,2
+2017,True,True,Super League,169,China,2
+2018,True,True,Super League,169,China,2
+2019,True,True,Super League,169,China,2
+2020,True,True,Super League,169,China,2
+2021,True,True,Super League,169,China,2
+2022,True,True,Super League,169,China,2
+2023,True,True,Super League,169,China,2
+2024,True,True,Super League,169,China,2
+2025,True,True,Super League,169,China,2
+2022,True,True,Botola Pro,200,Morocco,2
+2023,True,True,Botola Pro,200,Morocco,2
+2024,True,True,Botola Pro,200,Morocco,2
+2016,True,True,Super League,207,Switzerland,2
+2017,True,True,Super League,207,Switzerland,2
+2018,True,True,Super League,207,Switzerland,2
+2019,True,True,Super League,207,Switzerland,2
+2020,True,True,Super League,207,Switzerland,2
+2021,True,True,Super League,207,Switzerland,2
+2022,True,True,Super League,207,Switzerland,2
+2023,True,True,Super League,207,Switzerland,2
+2024,True,True,Super League,207,Switzerland,2
+2019,True,True,HNL,210,Croatia,2
+2020,True,True,HNL,210,Croatia,2
+2021,True,True,HNL,210,Croatia,2
+2022,True,True,HNL,210,Croatia,2
+2023,True,True,HNL,210,Croatia,2
+2024,True,True,HNL,210,Croatia,2
+2016,True,True,Premier League,235,Russia,2
+2017,True,True,Premier League,235,Russia,2
+2018,True,True,Premier League,235,Russia,2
+2019,True,True,Premier League,235,Russia,2
+2020,True,True,Premier League,235,Russia,2
+2021,True,True,Premier League,235,Russia,2
+2022,True,True,Premier League,235,Russia,2
+2023,True,True,Premier League,235,Russia,2
+2024,True,True,Premier League,235,Russia,2
+2016,True,True,Primera A,239,Colombia,2
+2017,True,True,Primera A,239,Colombia,2
+2018,True,True,Primera A,239,Colombia,2
+2019,True,True,Primera A,239,Colombia,2
+2020,True,True,Primera A,239,Colombia,2
+2021,True,True,Primera A,239,Colombia,2
+2022,True,True,Primera A,239,Colombia,2
+2023,True,True,Primera A,239,Colombia,2
+2024,True,True,Primera A,239,Colombia,2
+2025,True,True,Primera A,239,Colombia,2
+2023,True,True,Challenger Pro League,145,Belgium,2
+2024,True,True,Challenger Pro League,145,Belgium,2
+2023,True,True,FA WSL,44,England,2
+2024,True,True,FA WSL,44,England,2
+2023,True,True,Frauen Bundesliga,82,Germany,2
+2024,True,True,Frauen Bundesliga,82,Germany,2
+2023,True,True,Serie A Women,139,Italy,2
+2024,True,True,Serie A Women,139,Italy,2
+2023,True,True,Primera División Femenina,142,Spain,2
+2024,True,True,Primera División Femenina,142,Spain,2
+2021,True,True,First League,236,Russia,2
+2022,True,True,First League,236,Russia,2
+2023,True,True,First League,236,Russia,2
+2024,True,True,First League,236,Russia,2
+2020,True,True,Superettan,114,Sweden,2
+2021,True,True,Superettan,114,Sweden,2
+2022,True,True,Superettan,114,Sweden,2
+2023,True,True,Superettan,114,Sweden,2
+2024,True,True,Superettan,114,Sweden,2
+2016,True,True,Liga MX,262,Mexico,2
+2017,True,True,Liga MX,262,Mexico,2
+2018,True,True,Liga MX,262,Mexico,2
+2019,True,True,Liga MX,262,Mexico,2
+2020,True,True,Liga MX,262,Mexico,2
+2021,True,True,Liga MX,262,Mexico,2
+2022,True,True,Liga MX,262,Mexico,2
+2023,True,True,Liga MX,262,Mexico,2
+2024,True,True,Liga MX,262,Mexico,2
+2017,True,True,Primera División,281,Peru,2
+2018,True,True,Primera División,281,Peru,2
+2019,True,True,Primera División,281,Peru,2
+2020,True,True,Primera División,281,Peru,2
+2021,True,True,Primera División,281,Peru,2
+2022,True,True,Primera División,281,Peru,2
+2023,True,True,Primera División,281,Peru,2
+2024,True,True,Primera División,281,Peru,2
+2025,True,True,Primera División,281,Peru,2
+2016,True,True,Liga I,283,Romania,2
+2017,True,True,Liga I,283,Romania,2
+2018,True,True,Liga I,283,Romania,2
+2019,True,True,Liga I,283,Romania,2
+2020,True,True,Liga I,283,Romania,2
+2021,True,True,Liga I,283,Romania,2
+2022,True,True,Liga I,283,Romania,2
+2023,True,True,Liga I,283,Romania,2
+2024,True,True,Liga I,283,Romania,2
+2019,True,True,Super Liga,286,Serbia,2
+2020,True,True,Super Liga,286,Serbia,2
+2021,True,True,Super Liga,286,Serbia,2
+2022,True,True,Super Liga,286,Serbia,2
+2023,True,True,Super Liga,286,Serbia,2
+2024,True,True,Super Liga,286,Serbia,2
+2019,True,True,Premier Soccer League,288,South-Africa,2
+2020,True,True,Premier Soccer League,288,South-Africa,2
+2021,True,True,Premier Soccer League,288,South-Africa,2
+2022,True,True,Premier Soccer League,288,South-Africa,2
+2023,True,True,Premier Soccer League,288,South-Africa,2
+2024,True,True,Premier Soccer League,288,South-Africa,2
+2020,True,True,K League 1,292,South-Korea,2
+2021,True,True,K League 1,292,South-Korea,2
+2022,True,True,K League 1,292,South-Korea,2
+2023,True,True,K League 1,292,South-Korea,2
+2024,True,True,K League 1,292,South-Korea,2
+2020,True,True,K League 2,293,South-Korea,2
+2016,True,True,Pro League,307,Saudi-Arabia,2
+2017,True,True,Pro League,307,Saudi-Arabia,2
+2018,True,True,Pro League,307,Saudi-Arabia,2
+2019,True,True,Pro League,307,Saudi-Arabia,2
+2020,True,True,Pro League,307,Saudi-Arabia,2
+2021,True,True,Pro League,307,Saudi-Arabia,2
+2022,True,True,Pro League,307,Saudi-Arabia,2
+2023,True,True,Pro League,307,Saudi-Arabia,2
+2024,True,True,Pro League,307,Saudi-Arabia,2
+2018,True,True,Ekstraklasa,106,Poland,2
+2019,True,True,Ekstraklasa,106,Poland,2
+2020,True,True,Ekstraklasa,106,Poland,2
+2021,True,True,Ekstraklasa,106,Poland,2
+2022,True,True,Ekstraklasa,106,Poland,2
+2023,True,True,Ekstraklasa,106,Poland,2
+2024,True,True,Ekstraklasa,106,Poland,2
+2018,True,True,First League,172,Bulgaria,2
+2019,True,True,First League,172,Bulgaria,2
+2020,True,True,First League,172,Bulgaria,2
+2021,True,True,First League,172,Bulgaria,2
+2022,True,True,First League,172,Bulgaria,2
+2023,True,True,First League,172,Bulgaria,2
+2024,True,True,First League,172,Bulgaria,2
+2018,True,True,Primera División,265,Chile,2
+2019,True,True,Primera División,265,Chile,2
+2020,True,True,Primera División,265,Chile,2
+2021,True,True,Primera División,265,Chile,2
+2022,True,True,Primera División,265,Chile,2
+2023,True,True,Primera División,265,Chile,2
+2024,True,True,Primera División,265,Chile,2
+2025,True,True,Primera División,265,Chile,2
+2018,True,True,1. Division,318,Cyprus,2
+2019,True,True,1. Division,318,Cyprus,2
+2020,True,True,1. Division,318,Cyprus,2
+2021,True,True,1. Division,318,Cyprus,2
+2022,True,True,1. Division,318,Cyprus,2
+2023,True,True,1. Division,318,Cyprus,2
+2024,True,True,1. Division,318,Cyprus,2
+2018,True,True,Indian Super League,323,India,2
+2019,True,True,Indian Super League,323,India,2
+2020,True,True,Indian Super League,323,India,2
+2021,True,True,Indian Super League,323,India,2
+2022,True,True,Indian Super League,323,India,2
+2023,True,True,Indian Super League,323,India,2
+2024,True,True,Indian Super League,323,India,2
+2019,True,True,Super Liga,332,Slovakia,2
+2020,True,True,Super Liga,332,Slovakia,2
+2021,True,True,Super Liga,332,Slovakia,2
+2022,True,True,Super Liga,332,Slovakia,2
+2023,True,True,Super Liga,332,Slovakia,2
+2024,True,True,Super Liga,332,Slovakia,2
+2019,True,True,Czech Liga,345,Czech-Republic,2
+2020,True,True,Czech Liga,345,Czech-Republic,2
+2021,True,True,Czech Liga,345,Czech-Republic,2
+2022,True,True,Czech Liga,345,Czech-Republic,2
+2023,True,True,Czech Liga,345,Czech-Republic,2
+2024,True,True,Czech Liga,345,Czech-Republic,2
+2023,True,True,Primera División,344,Bolivia,2
+2024,True,True,Primera División,344,Bolivia,2
+2019,True,True,1. SNL,373,Slovenia,2
+2020,True,True,1. SNL,373,Slovenia,2
+2021,True,True,1. SNL,373,Slovenia,2
+2022,True,True,1. SNL,373,Slovenia,2
+2023,True,True,1. SNL,373,Slovenia,2
+2023,True,True,NWSL Women,254,USA,2
+2024,True,True,NWSL Women,254,USA,2
+2025,True,True,NWSL Women,254,USA,2
+2023,True,True,Premier Division,357,Ireland,2
+2024,True,True,Premier Division,357,Ireland,2
+2025,True,True,Premier Division,357,Ireland,2
+2025,True,True,Pernambucano - 1,622,Brazil,2
+2025,True,True,Carioca - 1,624,Brazil,2
+2020,True,True,Paulista - A1,475,Brazil,2
+2021,True,True,Paulista - A1,475,Brazil,2
+2022,True,True,Paulista - A1,475,Brazil,2
+2023,True,True,Paulista - A1,475,Brazil,2
+2024,True,True,Paulista - A1,475,Brazil,2
+2025,True,True,Paulista - A1,475,Brazil,2
+2020,True,True,Canadian Premier League,479,Canada,2
+2023,True,True,Canadian Premier League,479,Canada,2
+2024,True,True,Canadian Premier League,479,Canada,2
+2024,True,True,Damallsvenskan,549,Sweden,2
+2023,True,True,Copa de la Liga Profesional,1032,Argentina,2
+2024,True,True,Copa de la Liga Profesional,1032,Argentina,2

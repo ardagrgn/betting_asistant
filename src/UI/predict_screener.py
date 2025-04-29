@@ -28,6 +28,7 @@ df = pd.merge(predictions_df, fixtures_df, on="fixture.id", how="left")
 # Sidebar filters
 st.sidebar.header("Filter Fixtures")
 selected_date = st.sidebar.date_input("Select date",max_value=df.short_date.max(),min_value=df.short_date.min())
+
 selected_league = st.sidebar.selectbox("Select league", df["league.name"].unique())
 selected_team = st.sidebar.text_input("Search by team")
 

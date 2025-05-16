@@ -2,4 +2,4 @@
 data/
 predict_env/
 dataleagues.csv
-src/api_key
+src/api_key.txt

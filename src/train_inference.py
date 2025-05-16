@@ -239,6 +239,8 @@ check_data["preds"]=new_preds
 
 check_data_v1=check_data.merge(quantiles)
 check_data_v1["Lower_q"]=check_data_v1.preds+check_data_v1["down_min"]
+check_data_v1["Lower_q"][check_data_v1["Lower_q"]<0]=0
+
 check_data_v1["Upper_q"]= check_data_v1.preds+check_data_v1["up_max"]
 
 up_comming=check_data_v1[check_data_v1.fixture_date<="2025-04-31"]
@@ -246,6 +248,7 @@ up_comming_v1=up_comming.groupby(list(up_comming.columns[:7]),as_index=False)[["
 
 up_comming_v1["odd_up"]=(up_comming_v1["Upper_q"]-2.5)/(up_comming_v1["Upper_q"]-up_comming_v1["Lower_q"])
 up_comming_v1["odd_down"]=(2.5-up_comming_v1["Lower_q"])/(up_comming_v1["Upper_q"]-up_comming_v1["Lower_q"])
+
 
 up_comming_v1.to_excel("data/predicts.xlsx",index=False)
 

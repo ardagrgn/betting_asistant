@@ -2,8 +2,8 @@ import streamlit as st
 import pandas as pd
 
 # Load your datasets
-predictions_df = pd.read_excel("data/predicts.xlsx")  # Your predictions data
-fixtures_df = pd.read_csv("data/saved_fixtures.csv")        # Your fixture details
+predictions_df = pd.read_excel("predicts.xlsx")  # Your predictions data
+fixtures_df = pd.read_csv("saved_fixtures.csv")        # Your fixture details
 
 st.set_page_config(layout="wide")
 

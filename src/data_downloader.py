@@ -5,6 +5,13 @@ import requests
 import os
 import pickle
 import time
+from dotenv import load_dotenv
+import os
+
+load_dotenv()
+
+api_key = os.getenv("API_KEY")
+
 
 
 class api_management(http.client.HTTPSConnection):
@@ -16,7 +23,7 @@ class api_management(http.client.HTTPSConnection):
 
         self.headers = {
         'x-rapidapi-host': "v3.football.api-sports.io",
-        'x-rapidapi-key': 
+        'x-rapidapi-key': api_key
         }
 
     

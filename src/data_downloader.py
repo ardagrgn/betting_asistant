@@ -23,7 +23,9 @@ class api_management(http.client.HTTPSConnection):
 
         self.headers = {
         'x-rapidapi-host': "v3.football.api-sports.io",
+        dev
         'x-rapidapi-key': api_key
+
         }
 
     

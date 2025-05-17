@@ -12,16 +12,12 @@ import optuna
 
 
 def try_model(trymod):
-    
-    
-        
+            
     trymod.fit(y=otrain[target], X=otrain[list(input_cols)])
     pred=trymod.predict(otest[list(input_cols)])
     pred[pred<0]=0
    
-
     return np.mean(abs(pred-otest[target]).sum())
-
 
 
 def model_obj(name):
